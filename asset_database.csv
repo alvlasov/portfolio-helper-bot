@@ -1,0 +1,920 @@
+,name,exchange,ticker,href,type
+etf77,Alps Alerian MLP ETF (USD),NYSE Arca,AMLP,77,etf
+etf179,BOCI-Prudential - W.I.S.E. - CSI China Tracker Fund (HKD),Гонконгская ФБ,2827,179,etf
+etf183,China 50 ETF (CNY),Шанхайская ФБ,510050,183,etf
+etf185,China AMC CSI 300 Index ETF (CNY),Шанхайская ФБ,510330,185,etf
+etf79,Consumer Discretionary Select Sector SPDR Fund (USD),NYSE Arca,XLY,79,etf
+etf81,Consumer Staples Select Sector SPDR Fund (USD),NYSE Arca,XLP,81,etf
+etf731,Daily Russia Bear 3X Shares (USD),NYSE Arca,RUSS,731,etf
+etf729,Daily Russia Bull 3X Shares (USD),NYSE Arca,RUSL,729,etf
+etf83,Daiwa ETF - Nikkei 225 (JPY),Токийская ФБ,1320,83,etf
+etf85,Daiwa ETF - TOPIX (JPY),Токийская ФБ,1305,85,etf
+etf453,db x-trackers EURO STOXX 50 UCITS ETF - 1D (GBX),Лондонская ФБ,XESX,453,etf
+etf461,db x-trackers II IBOXX € SOVEREIGNS EUROZONE YIELD PLUS UCITS ETF (EUR),XETRA,XY4P,461,etf
+etf465,db x-trackers MSCI Emerging Markets Index UCITS ETF (USD),Лондонская ФБ,XMMD,465,etf
+etf467,db x-trackers MSCI Japan EUR Hedged TRN Index UCITS ETF (EUR),XETRA,XMK9,467,etf
+etf763,db x-trackers MSCI World Index UCITS ETF (USD),Швейцарская ФБ,XMWO,763,etf
+etf475,db x-trackers S&P 500 Euro Hedged Index UCITS ETF (EUR),XETRA,XKSP,475,etf
+etf479,db x-trackers S&P 500 UCITS ETF - 1C (GBX),Лондонская ФБ,XSPX,479,etf
+etf751,Direxion Daily 20+ Year Treasury Bull 3X Shares (USD),NYSE Arca,TMF,751,etf
+etf191,Direxion Daily Financial Bull 3X Shares (USD),NYSE Arca,FAS,191,etf
+etf759,Direxion Daily MSCI Emerging Markets Bear 3X Shares (USD),NYSE Arca,EDZ,759,etf
+etf753,Direxion Daily S&P 500 Bull 3x Share (USD),NYSE Arca,SPXL,753,etf
+etf193,EGShares Emerging Markets Consumer ETF (USD),NYSE Arca,ECON,193,etf
+etf87,Energy Select Sector SPDR Fund (USD),NYSE Arca,XLE,87,etf
+etf739,ETFS Physical Palladium Shares (USD),NYSE Arca,PALL,739,etf
+etf743,ETFS Physical Platinum Shares (USD),NYSE Arca,PPLT,743,etf
+etf761,ETFS Physical Silver Shares (USD),NYSE Arca,SIVR,761,etf
+etf195,ETFS Physical Swiss Gold Shares (USD),NYSE Arca,SGOL,195,etf
+etf1,Financial Select Sector SPDR Fund (USD),NYSE Arca,XLF,1,etf
+etf713,FinEx CASH EQUIVALENTS UCITS ETF (RUB Hedged Shares),ОАО Московская Биржа,FXMM,713,etf
+etf695,FinEx Gold ETF USD (RUB),ОАО Московская Биржа,FXGD,695,etf
+etf707,FinEx MSCI Australia UCITS ETF (RUB),ОАО Московская Биржа,FXAU,707,etf
+etf709,FinEx MSCI China UCITS ETF (RUB),ОАО Московская Биржа,FXCN,709,etf
+etf705,FinEx MSCI Germany UCITS ETF (RUB),ОАО Московская Биржа,FXDE,705,etf
+etf703,FinEx MSCI Japan UCITS ETF (RUB),ОАО Московская Биржа,FXJP,703,etf
+etf701,FinEx MSCI United Kingdom UCITS ETF (RUB),ОАО Московская Биржа,FXUK,701,etf
+etf699,FinEx MSCI USA Information Technology UCITS ETF (RUB),ОАО Московская Биржа,FXIT,699,etf
+etf697,FinEx MSCI USA UCITS ETF (RUB),ОАО Московская Биржа,FXUS,697,etf
+etf715,FinEx Russian RTS Equity UCITS ETF (USD)​,ОАО Московская Биржа,FXRL,715,etf
+etf691,FinEx Tradable Russian Corporate Bonds UCITS ETF (RUB),ОАО Московская Биржа,FXRB,691,etf
+etf693,FinEx Tradable Russian Corporate Bonds UCITS ETF (USD),ОАО Московская Биржа,FXRU,693,etf
+etf199,First Trust Dow Jones Internet Index Fund (USD),NYSE Arca,FDN,199,etf
+etf201,First Trust Health Care AlphaDEX Fund (USD),NYSE Arca,FXH,201,etf
+etf203,FlexShares Global Upstream Natural Resources Index Fund (USD),NYSE Arca,GUNR,203,etf
+etf205,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund (USD),NYSE Arca,TDTT,205,etf
+etf749,Global X Silver Miners ETF (USD),NYSE Arca,SIL,749,etf
+etf209,Guggenheim Multi-Asset Income ETF (USD),NYSE Arca,CVY,209,etf
+etf211,Guggenheim S&P 500 Equal Weight ETF (USD),NYSE Arca,RSP,211,etf
+etf747,Guggenheim Solar ETF (USD),NYSE Arca,TAN,747,etf
+etf215,Hang Seng Investment Index Funds Series - H-Share Index ETF (HKD),Гонконгская ФБ,2828,215,etf
+etf217,Hang Seng Investment Index Funds Series II - Hang Seng Index ETF (HKD),Гонконгская ФБ,2833,217,etf
+etf89,Health Care Select Sector SPDR Fund (USD),NYSE Arca,XLV,89,etf
+etf213,HSBC S&P 500 UCITS ETF (GBX),Лондонская ФБ,HSPX,213,etf
+etf91,Industrial Select Sector SPDR Fund (USD),NYSE Arca,XLI,91,etf
+etf483,iPath Dow Jones-UBS Commodity Index Total Return ETN (USD),NYSE Arca,DJP,483,etf
+etf481,iPath S&P 500 VIX Short-Term Futures ETN (USD),NYSE Arca,VXX,481,etf
+etf485,iShares $ Corporate Bond UCITS ETF (USD),Лондонская ФБ,LQDE,485,etf
+etf43,iShares 1-3 Year Credit Bond ETF (USD),NYSE Arca,CSJ,43,etf
+etf129,iShares 1-3 Year Treasury Bond ETF (USD),NYSE Arca,SHY,129,etf
+etf489,iShares 1-5 Year Laddered Corporate Bond Index (CAD),ФБ Торонто,CBO,489,etf
+etf493,iShares 20+ Year Treasury Bond ETF (USD),NYSE Arca,TLT,493,etf
+etf131,iShares 3-7 Year Treasury Bond ETF (USD),NYSE Arca,IEI,131,etf
+etf497,iShares 7-10 Year Treasury Bond ETF (USD),NYSE Arca,IEF,497,etf
+etf133,iShares China Large-Cap ETF (USD),NYSE Arca,FXI,133,etf
+etf501,iShares Cohen & Steers REIT ETF (USD),NYSE Arca,ICF,501,etf
+etf503,iShares Core MSCI Emerging Markets ETF (USD),NYSE Arca,IEMG,503,etf
+etf45,iShares Core S&P 500 ETF (USD),NYSE Arca,IVV,45,etf
+etf47,iShares Core S&P Mid-Cap ETF (USD),NYSE Arca,IJH,47,etf
+etf49,iShares Core S&P Small-Cap ETF (USD),NYSE Arca,IJR,49,etf
+etf51,iShares Core Total US Bond Market ETF (USD),NYSE Arca,AGG,51,etf
+etf3,iShares DAX DE (EUR),XETRA,EXS1,3,etf
+etf511,iShares Developed Markets Property Yield UCITS ETF (USD),Лондонская ФБ,IDWP,511,etf
+etf505,iShares DEX All Corporate Bond Index Fund (CAD),ФБ Торонто,XCB,505,etf
+etf507,iShares DEX Short Term Bond Index Fund (CAD),ФБ Торонто,XSB,507,etf
+etf509,iShares DEX Universe Bond Index Fund (CAD),ФБ Торонто,XBB,509,etf
+etf513,iShares Dow Jones Canada Select Dividend Index Fund (CAD),ФБ Торонто,XDV,513,etf
+etf683,iShares eb.rexx Government Germany 1.5-2.5 DE (EUR),XETRA,EXHB,683,etf
+etf515,iShares Emerging Markets Local Government Bond UCITS ETF (GBP),Лондонская ФБ,SEML,515,etf
+etf519,iShares Euro Corporate Bond Large Cap UCITS ETF (EUR),Лондонская ФБ,IBCX,519,etf
+etf135,iShares EURO STOXX 50 DE (EUR),XETRA,EXW1,135,etf
+etf137,iShares EURO STOXX 50 UCITS ETF Inc (GBP),Лондонская ФБ,EUE,137,etf
+etf533,iShares Europe ETF (USD),NYSE Arca,IEV,533,etf
+etf535,iShares European Property Yield UCITS ETF (GBP),Лондонская ФБ,IPRP,535,etf
+etf539,iShares Floating Rate Bond ETF (USD),NYSE Arca,FLOT,539,etf
+etf139,iShares FTSE 100 UCITS ETF (GBP),Лондонская ФБ,ISF,139,etf
+etf537,iShares FTSE 250 UCITS ETF (GBP),Лондонская ФБ,MIDD,537,etf
+etf141,iShares FTSE A50 China Index ETF (HKD),Гонконгская ФБ,2823,141,etf
+etf545,iShares Global 100 ETF (USD),NYSE Arca,IOO,545,etf
+etf807,iShares Global Financials ETF (USD),NYSE Arca,IXG,807,etf
+etf547,iShares Gold CH (CHF),Швейцарская ФБ,CSGOLD,547,etf
+etf143,iShares Gold Trust (USD),NYSE Arca,IAU,143,etf
+etf549,iShares High Dividend ETF (USD),NYSE Arca,HDV,549,etf
+etf73,iShares iBoxx $ High Yield Corporate Bond ETF (USD),NYSE Arca,HYG,73,etf
+etf75,iShares iBoxx $ Investment Grade Corporate Bond ETF (USD),NYSE Arca,LQD,75,etf
+etf145,iShares Intermediate Credit Bond ETF (USD),NYSE Arca,CIU,145,etf
+etf551,iShares Intermediate Government/Credit Bond ETF (USD),NYSE Arca,GVI,551,etf
+etf553,iShares International Select Dividend ETF (USD),NYSE Arca,IDV,553,etf
+etf727,iShares J.P. Morgan $ EM Bond UCITS ETF (USD),Лондонская ФБ,JPEICORE,727,etf
+etf557,iShares JP Morgan USD Emerging Markets Bond ETF (USD),NYSE Arca,EMB,557,etf
+etf559,iShares Latin America 40 ETF (USD ),NYSE Arca,ILF,559,etf
+etf687,iShares MBS ETF (USD),NYSE Arca,MBB,687,etf
+etf561,iShares MDAX DE (EUR),XETRA,EXS3,561,etf
+etf617,iShares Mortgage Real Estate Capped ETF (USD),NYSE Arca,REM,617,etf
+etf563,iShares MSCI AC Far East ex-Japan UCITS ETF (USD),Лондонская ФБ,IDFF,563,etf
+etf565,iShares MSCI ACWI ETF (USD),NASDAQ,ACWI,565,etf
+etf567,iShares MSCI ACWI ex US ETF (USD),NASDAQ,ACWX,567,etf
+etf569,iShares MSCI All Country Asia ex Japan ETF (USD),NASDAQ,AAXJ,569,etf
+etf571,iShares MSCI All Country World Minimum Volatility ETF (USD),NYSE Arca,ACWV,571,etf
+etf573,iShares MSCI Australia ETF (USD),NYSE Arca,EWA,573,etf
+etf147,iShares MSCI Brazil Capped ETF (USD),NYSE Arca,EWZ,147,etf
+etf575,iShares MSCI Canada ETF (USD),NYSE Arca,EWC,575,etf
+etf577,iShares MSCI China ETF (USD),NYSE Arca,MCHI,577,etf
+etf53,iShares MSCI EAFE ETF (USD),NYSE Arca,EFA,53,etf
+etf579,iShares MSCI EAFE Growth ETF (USD),NYSE Arca,EFG,579,etf
+etf581,iShares MSCI EAFE Small-Cap ETF (USD),NYSE Arca,SCZ,581,etf
+etf583,iShares MSCI EAFE Value ETF (USD),NYSE Arca,EFV,583,etf
+etf55,iShares MSCI Emerging Markets ETF (USD),NYSE Arca,EEM,55,etf
+etf585,iShares MSCI Emerging Markets Minimum Volatility ETF (USD),NYSE Arca,EEMV,585,etf
+etf149,iShares MSCI Emerging Markets UCITS ETF (Inc) (USD),Лондонская ФБ,IDEM,149,etf
+etf591,iShares MSCI Europe ex-UK UCITS ETF (GBP),Лондонская ФБ,IEUX,591,etf
+etf589,iShares MSCI Europe UCITS ETF Inc (GBP),Лондонская ФБ,IMEU,589,etf
+etf717,iShares MSCI Eurozone ETF (USD),Bats Exchanges,EZU,717,etf
+etf593,iShares MSCI Germany ETF (USD),NYSE Arca,EWG,593,etf
+etf595,iShares MSCI Hong Kong ETF (USD),NYSE Arca,EWH,595,etf
+etf57,iShares MSCI Japan ETF (USD),NYSE Arca,EWJ,57,etf
+etf597,iShares MSCI Japan EUR Hedged UCITS ETF (EUR),Лондонская ФБ,IJPE,597,etf
+etf599,iShares MSCI Japan UCITS ETF Inc (GBP),Лондонская ФБ,IJPN,599,etf
+etf601,iShares MSCI Mexico Capped ETF (USD),NYSE Arca,EWW,601,etf
+etf603,iShares MSCI North America UCITS ETF (USD),Лондонская ФБ,IDNA,603,etf
+etf605,iShares MSCI Pacific ex Japan ETF (USD),NYSE Arca,EPP,605,etf
+etf607,iShares MSCI Singapore ETF (USD),NYSE Arca,EWS,607,etf
+etf609,iShares MSCI South Korea Capped ETF (USD),NYSE Arca,EWY,609,etf
+etf809,iShares MSCI Spain Capped ETF (USD),NYSE Arca,EWP,809,etf
+etf611,iShares MSCI Taiwan ETF (USD),NYSE Arca,EWT,611,etf
+etf777,iShares MSCI Turkey ETF (USD),NYSE Arca,TUR,777,etf
+etf615,iShares MSCI United Kingdom ETF (USD),NYSE Arca,EWU,615,etf
+etf613,iShares MSCI USA Minimum Volatility ETF (USD),NYSE Arca,USMV,613,etf
+etf811,iShares MSCI World UCITS ETF (USD),Лондонская ФБ,IDWR,811,etf
+etf619,iShares Nasdaq Biotechnology ETF (USD),NYSE Arca,IBB,619,etf
+etf621,iShares National AMT-Free Muni Bond ETF (USD),NYSE Arca,MUB,621,etf
+etf623,iShares North American Natural Resources ETF (USD),NYSE Arca,IGE,623,etf
+etf625,iShares Pfandbriefe DE (EUR),XETRA,EXHE,625,etf
+etf155,iShares Russell 1000 ETF (USD),NYSE Arca,IWB,155,etf
+etf59,iShares Russell 1000 Growth ETF (USD),NYSE Arca,IWF,59,etf
+etf61,iShares Russell 1000 Value ETF (USD),NYSE Arca,IWD,61,etf
+etf63,iShares Russell 2000 ETF (USD),NYSE Arca,IWM,63,etf
+etf157,iShares Russell 2000 Growth ETF (USD),NYSE Arca,IWO,157,etf
+etf159,iShares Russell 2000 Value ETF (USD),NYSE Arca,IWN,159,etf
+etf627,iShares Russell 3000 ETF (USD),NYSE Arca,IWV,627,etf
+etf161,iShares Russell Mid-Cap ETF (USD),NYSE Arca,IWR,161,etf
+etf629,iShares Russell Mid-Cap Growth ETF (USD),NYSE Arca,IWP,629,etf
+etf163,iShares Russell Mid-Cap Value ETF (USD),NYSE Arca,IWS,163,etf
+etf631,iShares S&P 100 ETF (USD),NYSE Arca,OEF,631,etf
+etf165,iShares S&P 500 Growth ETF (USD),NYSE Arca,IVW,165,etf
+etf633,iShares S&P 500 Index Fund CAD-Hedged (CAD),ФБ Торонто,XSP,633,etf
+etf167,iShares S&P 500 Value ETF (USD),NYSE Arca,IVE,167,etf
+etf635,iShares S&P GSCI Commodity Indexed Trust (USD),NYSE Arca,GSG,635,etf
+etf637,iShares S&P Mid-Cap 400 Growth ETF (USD),NYSE Arca,IJK,637,etf
+etf639,iShares S&P Mid-Cap 400 Value ETF (USD),NYSE Arca,IJJ,639,etf
+etf641,iShares S&P Small-Cap 600 Growth ETF (USD),NYSE Arca,IJT,641,etf
+etf643,iShares S&P Small-Cap 600 Value ETF (USD),NYSE Arca,IJS,643,etf
+etf67,iShares S&P/TSX 60 Index Fund (CAD),ФБ Торонто,XIU,67,etf
+etf645,iShares S&P/TSX Canadian Preferred Share Index Fund (CAD),ФБ Торонто,CPD,645,etf
+etf647,iShares S&P/TSX Capped Composite Index (CAD),ФБ Торонто,XIC,647,etf
+etf649,iShares S&P/TSX Capped REIT Index Fund (CAD),ФБ Торонто,XRE,649,etf
+etf69,iShares Select Dividend ETF (USD),NYSE Arca,DVY,69,etf
+etf657,iShares Short Treasury Bond ETF (USD),NYSE Arca,SHV,657,etf
+etf169,iShares Silver Trust (USD),NYSE Arca,SLV,169,etf
+etf651,iShares SMI CH (EUR),XETRA,XMT,651,etf
+etf653,iShares SMIM CH (CHF),Швейцарская ФБ,CSSMIM,653,etf
+etf655,iShares STOXX Europe 600 DE (EUR),XETRA,EXSA,655,etf
+etf71,iShares TIPS Bond ETF (USD),NYSE Arca,TIP,71,etf
+etf815,iShares U.S. Consumer Goods ETF (USD),NYSE Arca,IYK,815,etf
+etf813,iShares U.S. Consumer Services ETF (USD),NYSE Arca,IYC,813,etf
+etf659,iShares U.S. Energy ETF (USD),NYSE Arca,IYE,659,etf
+etf661,iShares U.S. Healthcare ETF (USD),NYSE Arca,IYH,661,etf
+etf663,iShares U.S. Home Construction ETF (USD),NYSE Arca,ITB,663,etf
+etf665,iShares U.S. Industrials ETF (USD),NYSE Arca,IYJ,665,etf
+etf667,iShares UK Dividend UCITS ETF (GBP),Лондонская ФБ,IUKD,667,etf
+etf669,iShares UK Gilts 0-5yr UCITS ETF (GBP),Лондонская ФБ,IGLS,669,etf
+etf671,iShares UK Gilts UCITS ETF (GBP),Лондонская ФБ,IGLT,671,etf
+etf673,iShares US Financials ETF (USD),NYSE Arca,IYF,673,etf
+etf171,iShares US Preferred Stock ETF (USD),NYSE Arca,PFF,171,etf
+etf675,iShares US Real Estate ETF (USD),NYSE Arca,IYR,675,etf
+etf677,iShares US Technology ETF (USD),NYSE Arca,IYW,677,etf
+etf679,iShares US Utilities ETF (USD),NYSE Arca,IDU,679,etf
+etf681,iShares USD Treasury Bond 1-3 UCITS ETF (USD),Лондонская ФБ,IDBT,681,etf
+etf541,iShares £ Corporate Bond UCITS ETF (GBP),Лондонская ФБ,SLXX,541,etf
+etf543,iShares £ Index-Linked Gilts UCITS ETF (GBP),Лондонская ФБ,INXG,543,etf
+etf93,JPMorgan Alerian MLP Index ETN (USD),NYSE Arca,AMJ,93,etf
+etf805,Lyxor Commodities CRB Thomson Reuters/CoreCommodity UCITS ETF (EUR),Euronext,CRB,805,etf
+etf245,Lyxor ETF MSCI Emerging Markets/France (EUR),XETRA,LYM7,245,etf
+etf247,Lyxor ETF MSCI Europe (EUR),XETRA,LYY5,247,etf
+etf803,Lyxor FTSE EPRA/NAREIT Global Developed UCITS ETF (EUR),Euronext,MWO,803,etf
+etf799,Lyxor MSCI India UCITS ETF (GBP),Лондонская ФБ,INRL,799,etf
+etf797,Lyxor MSCI India UCITS ETF (USD),Швейцарская ФБ,LYINR,797,etf
+etf801,Lyxor MSCI World Health Care TR UCITS ETF (EUR),Euronext,HLTW,801,etf
+etf97,Lyxor UCITS ETF Euro Stoxx 50 (EUR),XETRA,LYSX,97,etf
+etf273,Materials Select Sector SPDR Fund (USD),NYSE Arca,XLB,273,etf
+etf257,MAXIS Nikkei 225 ETF (JPY),Токийская ФБ,1346,257,etf
+etf261,MAXIS TOPIX ETF (JPY),Токийская ФБ,1348,261,etf
+etf275,Mirae Asset TIGER 200 ETF (KRW),Корейская ФБ,102110,275,etf
+etf101,Nikko Exchange Traded Index Fund 225 (JPY),Токийская ФБ,1330,101,etf
+etf103,Nikko Exchange Traded Index Fund TOPIX (JPY),Токийская ФБ,1308,103,etf
+etf7,Nomura TOPIX Exchange Traded Fund (JPY),Токийская ФБ,1306,7,etf
+etf281,PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund (USD),NYSE Arca,HYS,281,etf
+etf283,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund (USD),NYSE Arca,STPZ,283,etf
+etf285,PIMCO Enhanced Short Maturity Exchange-Traded Fund (USD),NYSE Arca,MINT,285,etf
+etf287,PIMCO Euro Short Maturity Source ETF (EUR),XETRA,PJS1,287,etf
+etf291,Pimco Total Return ETF (USD),NYSE Arca,BOND,291,etf
+etf293,PowerShares Buyback Achievers Portfolio (USD),NYSE Arca,PKW,293,etf
+etf295,PowerShares DB Agriculture Fund (USD),NYSE Arca,DBA,295,etf
+etf105,PowerShares DB Commodity Index Tracking Fund (USD),NYSE Arca,DBC,105,etf
+etf711,PowerShares DB Gold Fund (USD),NYSE Arca,DGL,711,etf
+etf781,PowerShares DB Oil Fund (USD),NYSE Arca,DBO,781,etf
+etf783,PowerShares DWA Consumer Staples Momentum Portfolio (USD),NASDAQ,DWCSTR,783,etf
+etf297,PowerShares Emerging Markets Sovereign Debt Portfolio (USD),NYSE Arca,PCY,297,etf
+etf299,PowerShares Financial Preferred Portfolio (USD),NYSE Arca,PGF,299,etf
+etf305,Powershares FTSE RAFI US 1000 Portfolio (USD),NYSE Arca,PRF,305,etf
+etf765,PowerShares NASDAQ Internet Portfolio (USD),NASDAQ,NETX,765,etf
+etf301,PowerShares Preferred Portfolio (USD),NYSE Arca,PGX,301,etf
+etf719,"PowerShares QQQ Trust, Series 1 ETF (USD)",NASDAQ,QQQ,719,etf
+etf303,PowerShares S&P 500 Low Volatility Portfolio (USD),NYSE Arca,SPLV,303,etf
+etf685,PowerShares Senior Loan Portfolio (USD),NYSE Arca,BKLN,685,etf
+etf309,ProShares Short 20+ Year Treasury (USD),NYSE Arca,TBF,309,etf
+etf733,ProShares Short Euro (USD),NYSE Arca,EUFX,733,etf
+etf311,ProShares Short S&P500 (USD),NYSE Arca,SH,311,etf
+etf773,ProShares Ultra 20+ Year Treasury (USD),NYSE Arca,UBT,773,etf
+etf771,ProShares Ultra Bloomberg Crude Oil (USD),NYSE Arca,UCO,771,etf
+etf745,ProShares Ultra Gold (USD),NYSE Arca,UGL,745,etf
+etf313,ProShares Ultra Russell2000 (USD),NYSE Arca,UWM,313,etf
+etf741,ProShares Ultra Silver (USD),NYSE Arca,AGQ,741,etf
+etf755,ProShares UltraPro Dow30 (USD),NYSE Arca,UDOW,755,etf
+etf757,ProShares UltraPro QQQ (USD),NASDAQ,TQQQ,757,etf
+etf723,ProShares UltraPro Short S&P500 (USD),NYSE Arca,SPXU,723,etf
+etf737,ProShares UltraShort 20+ Year Treasury (USD),NYSE Arca,TBT,737,etf
+etf769,ProShares UltraShort QQQ (USD),NYSE Arca,QID,769,etf
+etf775,ProShares UltraShort S&P500 (USD),NYSE Arca,SDS,775,etf
+etf349,Samsung Kodex 200 Exchange Traded Funds (KRW),Корейская ФБ,069500,349,etf
+etf347,Samsung KODEX Leverage ETF Equity-Derivatives FoF (KRW),Корейская ФБ,122630,347,etf
+etf351,Schwab International Equity ETF (USD),NYSE Arca,SCHF,351,etf
+etf353,Schwab US Broad Market ETF (USD),NYSE Arca,SCHB,353,etf
+etf355,Schwab US Dividend Equity ETF (USD),NYSE Arca,SCHD,355,etf
+etf357,Schwab US Large-Cap ETF (USD),NYSE Arca,SCHX,357,etf
+etf359,Schwab US Small-Cap ETF (USD),NYSE Arca,SCHA,359,etf
+etf361,Shanghai SSE180 ETF (CNY),Шанхайская ФБ,510180,361,etf
+etf725,Shares Euro High Yield Corporate Bond (EUR),Лондонская ФБ,IBOXXMJA,725,etf
+etf107,SPDR Barclays High Yield Bond ETF (USD),NYSE Arca,JNK,107,etf
+etf319,SPDR Barclays International Treasury Bond ETF (USD),NYSE Arca,BWX,319,etf
+etf321,SPDR Barclays Short Term Corporate Bond ETF (USD),NYSE Arca,SCPB,321,etf
+etf323,SPDR DB International Government Inflation-Protected Bond ETF (USD),NYSE Arca,WIP,323,etf
+etf325,SPDR Dow Jones Global Real Estate ETF (USD),NYSE Arca,RWO,325,etf
+etf11,SPDR Dow Jones Industrial Average ETF Trust (USD),NYSE Arca,DIA,11,etf
+etf327,SPDR Dow Jones International Real Estate ETF (USD),NYSE Arca,RWX,327,etf
+etf329,SPDR Dow Jones REIT ETF (USD),NYSE Arca,RWR,329,etf
+etf331,SPDR EURO STOXX 50 ETF (USD),NYSE Arca,FEZ,331,etf
+etf13,SPDR Gold Shares (USD),NYSE Arca,GLD,13,etf
+etf689,SPDR Nuveen Barclays Short Term Municipal Bond ETF (USD),NYSE Arca,SHM,689,etf
+etf15,SPDR S&P 500 ETF Trust (USD),NYSE Arca,SPY,15,etf
+etf333,SPDR S&P Bank ETF (USD),NYSE Arca,KBE,333,etf
+etf335,SPDR S&P Biotech ETF (USD),NYSE Arca,XBI,335,etf
+etf791,SPDR S&P China ETF (USD),NYSE Arca,GXC,791,etf
+etf17,SPDR S&P Dividend ETF (USD),NYSE Arca,SDY,17,etf
+etf337,SPDR S&P Homebuilders ETF (USD),NYSE Arca,XHB,337,etf
+etf339,SPDR S&P International Dividend ETF (USD),NYSE Arca,DWX,339,etf
+etf793,SPDR S&P Metals & Mining ETF (USD),NYSE Arca,XME,793,etf
+etf19,SPDR S&P MidCap 400 ETF Trust (USD),NYSE Arca,MDY,19,etf
+etf735,SPDR S&P Oil & Gas Exploration & Production ETF (USD),NYSE Arca,XOP,735,etf
+etf341,SPDR S&P Regional Banking ETF (USD),NYSE Arca,KRE,341,etf
+etf795,SPDR S&P Retail ETF (USD),NYSE Arca,XRT,795,etf
+etf343,SPDR S&P US Dividend Aristocrats UCITS ETF (GBP),Лондонская ФБ,USDV,343,etf
+etf779,Sprott Physical Platinum & Palladium Trust (USD),NYSE Arca,SPPP,779,etf
+etf21,Technology Select Sector SPDR Fund (USD),NYSE Arca,XLK,21,etf
+etf109,Tracker Fund of Hong Kong Ltd (HKD),Гонконгская ФБ,2800,109,etf
+etf197,UBS E-TRACS Alerian MLP Infrastrctr ETN (USD),NYSE Arca,MLPI,197,etf
+etf365,UBS ETF CH-SMI CHF A-dis (CHF),Швейцарская ФБ,SMICHA,365,etf
+etf721,United States Brent Oil Fund (USD),NYSE Arca,BNO,721,etf
+etf111,Utilities Select Sector SPDR Fund (USD),NYSE Arca,XLU,111,etf
+etf263,Van Eck Agribusiness ETF (USD),NYSE Arca,MOO,263,etf
+etf265,Van Eck Emerging Markets Local Currency Bond ETF (USD),NYSE Arca,EMLC,265,etf
+etf99,Van Eck Gold Miners ETF (USD),NYSE Arca,GDX,99,etf
+etf267,Van Eck Junior Gold Miners ETF (USD),NYSE Arca,GDXJ,267,etf
+etf269,Van Eck Oil Service ETF (USD),NYSE Arca,OIH,269,etf
+etf271,Van Eck Russia ETF (USD),NYSE Arca,RSX,271,etf
+etf785,VanEck Vectors Gold Miners ETF (USD),NYSE Arca,GDX,785,etf
+etf787,VanEck Vectors Junior Gold Miners ETF (USD),NYSE Arca,GDXJ,787,etf
+etf789,VanEck Vectors Retail ETF (USD),NYSE Arca,RTH,789,etf
+etf381,Vanguard Consumer Discretionary ETF (USD),NYSE Arca,VCR,381,etf
+etf383,Vanguard Consumer Staples ETF (USD),NYSE Arca,VDC,383,etf
+etf23,Vanguard Dividend Appreciation ETF (USD),NYSE Arca,VIG,23,etf
+etf385,Vanguard Energy ETF (USD),NYSE Arca,VDE,385,etf
+etf387,Vanguard Extended Market ETF (USD),NYSE Arca,VXF,387,etf
+etf393,Vanguard Financials ETF (USD),NYSE Arca,VFH,393,etf
+etf389,Vanguard FTSE All World ex-US Small-Cap ETF (USD),NYSE Arca,VSS,389,etf
+etf113,Vanguard FTSE All-World ex-US ETF (USD),NYSE Arca,VEU,113,etf
+etf25,Vanguard FTSE Developed Markets ETF (USD),NYSE Arca,VEA,25,etf
+etf27,Vanguard FTSE Emerging Markets ETF (USD),NYSE Arca,VWO,27,etf
+etf115,Vanguard FTSE Europe ETF (USD),NYSE Arca,VGK,115,etf
+etf391,Vanguard FTSE Pacific ETF (USD),NYSE Arca,VPL,391,etf
+etf29,Vanguard Growth ETF (USD),NYSE Arca,VUG,29,etf
+etf395,Vanguard Health Care ETF (USD),NYSE Arca,VHT,395,etf
+etf117,Vanguard High Dividend Yield ETF (USD),NYSE Arca,VYM,117,etf
+etf397,Vanguard Industrials ETF (USD),NYSE Arca,VIS,397,etf
+etf399,Vanguard Information Technology ETF (USD),NYSE Arca,VGT,399,etf
+etf401,Vanguard Intermediate-Term Bond ETF (USD),NYSE Arca,BIV,401,etf
+etf403,Vanguard Intermediate-Term Corporate Bond ETF (USD),NASDAQ,VCIT,403,etf
+etf405,Vanguard Large-Cap ETF (USD),NYSE Arca,VV,405,etf
+etf767,Vanguard Long-Term Government Bond ETF (USD),NASDAQ,VGLT,767,etf
+etf407,Vanguard Mega Cap Growth ETF (USD),NYSE Arca,MGK,407,etf
+etf119,Vanguard Mid-Cap ETF (USD),NYSE Arca,VO,119,etf
+etf409,Vanguard Mid-Cap Growth ETF (USD),NYSE Arca,VOT,409,etf
+etf411,Vanguard Mid-Cap Value ETF (USD),NYSE Arca,VOE,411,etf
+etf31,Vanguard REIT ETF (USD),NYSE Arca,VNQ,31,etf
+etf413,Vanguard S&P 500 (GBX),Лондонская ФБ,VUSA,413,etf
+etf33,Vanguard S&P 500 ETF (USD),NYSE Arca,VOO,33,etf
+etf35,Vanguard Short-Term Bond ETF (USD),NYSE Arca,BSV,35,etf
+etf121,Vanguard Short-Term Corporate Bond ETF (USD),NASDAQ,VCSH,121,etf
+etf123,Vanguard Small-Cap ETF (USD),NYSE Arca,VB,123,etf
+etf415,Vanguard Small-Cap Growth ETF (USD),NYSE Arca,VBK,415,etf
+etf417,Vanguard Small-Cap Value ETF (USD),NYSE Arca,VBR,417,etf
+etf37,Vanguard Total Bond Market ETF (USD),NYSE Arca,BND,37,etf
+etf419,Vanguard Total International Stock ETF (USD),NYSE Arca,VXUS,419,etf
+etf39,Vanguard Total Stock Market ETF (USD),NYSE Arca,VTI,39,etf
+etf421,Vanguard Total World Stock ETF (USD),NYSE Arca,VT,421,etf
+etf423,Vanguard Utilities ETF (USD),NYSE Arca,VPU,423,etf
+etf41,Vanguard Value ETF (USD),NYSE Arca,VTV,41,etf
+etf425,WisdomTree Dividend Ex-Financials Fund (USD),NYSE Arca,DTN,425,etf
+etf427,WisdomTree Emerging Markets Equity Income Fund (USD),NYSE Arca,DEM,427,etf
+etf429,WisdomTree Emerging Markets Local Debt Fund (USD),NYSE Arca,ELD,429,etf
+etf431,WisdomTree Emerging Markets SmallCap Dividend Fund (USD),NYSE Arca,DGS,431,etf
+etf125,WisdomTree Japan Hedged Equity Fund (USD),NYSE Arca,DXJ,125,etf
+etf433,WisdomTree LargeCap Dividend Fund (USD),NYSE Arca,DLN,433,etf
+etf441,ZKB Gold ETF (CHF),Швейцарская ФБ,ZGLD,441,etf
+etf445,ZKB Gold ETF hedged (CHF) (CHF),Швейцарская ФБ,ZGLDHC,445,etf
+etf443,ZKB Gold ETF-A USD (USD),Швейцарская ФБ,ZGLDUS,443,etf
+etf447,ZKB Silver ETF (CHF),Швейцарская ФБ,ZSIL,447,etf
+pif612,3Д,,,612,pif
+pif231,ADT - Фонд акций второго эшелона,,,231,pif
+pif174,ADT - Фонд Голубых фишек,,,174,pif
+pif163,ADT - Фонд телекоммуникаций,,,163,pif
+pif162,ADT - Фонд топливно-энергетического комплекса,,,162,pif
+pif224,ADT – Фонд пенсионных резервов,,,224,pif
+pif183,ADT – Фонд Стойкий,,,183,pif
+pif181,ADT-Фонд мирового потребительского сектора,,,181,pif
+pif230,АDT - Фонд ликвидных облигаций,,,230,pif
+pif31,АDT – Фонд ликвидных активов,,,31,pif
+pif30,АDT – Фонд облигаций второго эшелона,,,30,pif
+pif175,АDT – Фонд оптимальный,,,175,pif
+pif440,Аванпост,,,440,pif
+pif1308,Адмирал,,,1308,pif
+pif365,Аз-Капитал,,,365,pif
+pif1560,Азимут,,,1560,pif
+pif1506,Ай Пи Ти - Недвижимость,,,1506,pif
+pif4421,Айсегментс – Деньги,,,4421,pif
+pif4423,Айсегментс – Перспективные технологии,,,4423,pif
+pif266,АК БАРС - Акции,,,266,pif
+pif1557,АК БАРС - Горизонт,,,1557,pif
+pif334,АК БАРС - Индекс ММВБ,,,334,pif
+pif350,АК БАРС - Консервативный,,,350,pif
+pif2247,Активные инвестиции,,,2247,pif
+pif4199,Активо два,,,4199,pif
+pif4063,Активо один,,,4063,pif
+pif4597,Активо пять,,,4597,pif
+pif3169,Алексеевский,,,3169,pif
+pif708,Аллтек - Индекс ММВБ,,,708,pif
+pif1369,Альтаир Инвест,,,1369,pif
+pif1923,Альтернативные инвестиции,,,1923,pif
+pif2207,Альтернативный процент,,,2207,pif
+pif954,Альфа - Капитал Бренды,,,954,pif
+pif105,Альфа-Капитал,,,105,pif
+pif543,Альфа-Капитал Баланс,,,543,pif
+pif430,Альфа-Капитал Еврооблигации,,,430,pif
+pif953,Альфа-Капитал Золото,,,953,pif
+pif742,Альфа-капитал Инфраструктура,,,742,pif
+pif432,Альфа-Капитал Ликвидные акции,,,432,pif
+pif33,Альфа-Капитал Облигации плюс,,,33,pif
+pif34,Альфа-Капитал Резерв,,,34,pif
+pif934,Альфа-Капитал Стратегические инвестиции,,,934,pif
+pif952,Альфа-Капитал Торговля,,,952,pif
+pif747,Альфа–Капитал Акции роста,,,747,pif
+pif746,Альфа–Капитал Индекс ММВБ,,,746,pif
+pif745,Альфа–Капитал Ресурсы,,,745,pif
+pif743,Альфа–Капитал Технологии,,,743,pif
+pif4293,Америка,,,4293,pif
+pif687,Аналитический Центр - Сбалансированный,,,687,pif
+pif1343,Ангара Эстейт,,,1343,pif
+pif1478,АНКОР - фонд недвижимости,,,1478,pif
+pif864,Антей Восток,,,864,pif
+pif865,Антей Север,,,865,pif
+pif866,Антей Юг,,,866,pif
+pif467,Апрель Капитал - Государственные облигации,,,467,pif
+pif39,Апрель Капитал – Акции,,,39,pif
+pif472,Апрель Капитал – Акции второго эшелона,,,472,pif
+pif893,Апрель Капитал – Акции несырьевых компаний,,,893,pif
+pif892,Апрель Капитал – Акции сырьевых компаний,,,892,pif
+pif40,Апрель Капитал – Облигации,,,40,pif
+pif41,Апрель Капитал – Сбалансированный,,,41,pif
+pif4425,Арикапитал – Глобальные инвестиции,,,4425,pif
+pif3119,Арикапитал – Чистые деньги,,,3119,pif
+pif4305,Арсагера – акции Мира,,,4305,pif
+pif439,Арсагера – Жилищное строительство,,,439,pif
+pif403,Арсагера – фонд акций,,,403,pif
+pif3435,Арсагера – фонд облигаций КР 1.55,,,3435,pif
+pif481,Арсагера — акции 6.4,,,481,pif
+pif404,Арсагера — фонд смешанных инвестиций,,,404,pif
+pif3965,Артфонд,,,3965,pif
+pif1082,Аруджи – фонд недвижимости 1,,,1082,pif
+pif3379,Аршин,,,3379,pif
+pif689,Атлант,,,689,pif
+pif4049,Атлант,,,4049,pif
+pif2965,Атлант – региональная недвижимость,,,2965,pif
+pif1286,Атолл,,,1286,pif
+pif775,Атон – Фонд облигаций,,,775,pif
+pif1955,АТРИУМ,,,1955,pif
+pif1368,Афина Реалти,,,1368,pif
+pif3259,АФМ. Перспектива,,,3259,pif
+pif2317,АФМ. Ростошинские пруды,,,2317,pif
+pif1381,АФМ.СтройИнвест,,,1381,pif
+pif2251,Базовые отрасли,,,2251,pif
+pif4415,Баланс,,,4415,pif
+pif1724,БАЛТИНВЕСТ – Российская недвижимость,,,1724,pif
+pif1039,БАЛТИНВЕСТ – Фонд смешанных инвестиций,,,1039,pif
+pif2057,Баргузин,,,2057,pif
+pif2016,Башкирская недвижимость 2,,,2016,pif
+pif2507,Берег,,,2507,pif
+pif1756,Бизнесрент,,,1756,pif
+pif2667,БиоТех,,,2667,pif
+pif3079,БКС Драгоценные металлы,,,3079,pif
+pif2219,БКС Империя,,,2219,pif
+pif316,БКС Индекс ММВБ,,,316,pif
+pif165,БКС Основа,,,165,pif
+pif96,БКС Перспектива,,,96,pif
+pif166,БКС Фонды США,,,166,pif
+pif1878,Большой Урал,,,1878,pif
+pif4455,Ватан,,,4455,pif
+pif1691,ВербаКапитал — Облигации,,,1691,pif
+pif606,Виктория,,,606,pif
+pif986,Виктория плюс,,,986,pif
+pif1849,Возрождение Абхазии,,,1849,pif
+pif3391,Возрождение Подмосковья,,,3391,pif
+pif1990,Восток Недвижимость,,,1990,pif
+pif268,ВТБ - Индекс ММВБ,,,268,pif
+pif1044,ВТБ - Фонд Денежного рынка,,,1044,pif
+pif54,ВТБ - Фонд Казначейский,,,54,pif
+pif4311,ВТБ Капитал - Жилая недвижимость 1,,,4311,pif
+pif1003,ВТБ – Фонд Акций,,,1003,pif
+pif53,ВТБ – Фонд Глобальных дивидендов,,,53,pif
+pif1005,ВТБ – Фонд Еврооблигаций,,,1005,pif
+pif1010,ВТБ – Фонд Металлургии,,,1010,pif
+pif1009,ВТБ – Фонд Нефтегазового сектора,,,1009,pif
+pif1004,ВТБ – Фонд Облигаций плюс,,,1004,pif
+pif1008,ВТБ – Фонд Перспективных инвестиций,,,1008,pif
+pif1002,ВТБ – Фонд Потребительского сектора,,,1002,pif
+pif1012,ВТБ – Фонд Предприятий с государственным участием,,,1012,pif
+pif1007,ВТБ – Фонд Сбалансированный,,,1007,pif
+pif1011,ВТБ – Фонд Телекоммуникаций,,,1011,pif
+pif1006,ВТБ – Фонд Электроэнергетики,,,1006,pif
+pif44,ВТБ — БРИК,,,44,pif
+pif1460,ВТБ — Фонд Драгоценных металлов,,,1460,pif
+pif109,Высокие технологии,,,109,pif
+pif665,Газпромбанк - Валютные облигации,,,665,pif
+pif2595,Газпромбанк - Золото,,,2595,pif
+pif667,Газпромбанк - Сбалансированный,,,667,pif
+pif668,Газпромбанк – Акции,,,668,pif
+pif1057,Газпромбанк – Индекс ММВБ,,,1057,pif
+pif1058,Газпромбанк – Индекс ММВБ – Электроэнергетика,,,1058,pif
+pif2291,Газпромбанк – Мировая продовольственная корзина,,,2291,pif
+pif1059,Газпромбанк – Нефть,,,1059,pif
+pif2969,Газпромбанк – Облигации плюс,,,2969,pif
+pif734,Газпромбанк-Индия,,,734,pif
+pif3735,Генезис,,,3735,pif
+pif3381,ГЕРАКЛ,,,3381,pif
+pif3307,ГЕРФИН – фонд недвижимости,,,3307,pif
+pif1481,ГЕРФИН – фонд облигаций,,,1481,pif
+pif530,Глобал Капитал – Акции,,,530,pif
+pif531,Глобал Капитал – Облигации,,,531,pif
+pif2917,Глобальный,,,2917,pif
+pif4045,Глобус,,,4045,pif
+pif1129,Город,,,1129,pif
+pif3887,Две столицы,,,3887,pif
+pif3427,Деметра,,,3427,pif
+pif110,Дивидендные акции и корпоративные облигации,,,110,pif
+pif42,Дмитрий Донской,,,42,pif
+pif3571,Доблестный витязь,,,3571,pif
+pif2243,Долина,,,2243,pif
+pif3879,Долларовые облигации,,,3879,pif
+pif4329,Домашний,,,4329,pif
+pif3759,ДОХОДЪ — Рентная недвижимость,,,3759,pif
+pif858,ДОХОДЪ. Акции роста. Россия,,,858,pif
+pif263,ДОХОДЪ. Альтернативные инвестиции,,,263,pif
+pif264,ДОХОДЪ. Денежный рынок. Россия,,,264,pif
+pif262,ДОХОДЪ. Дивидендные акции. Россия,,,262,pif
+pif857,ДОХОДЪ. Облигации. Россия,,,857,pif
+pif856,ДОХОДЪ. Перспективные облигации. Россия,,,856,pif
+pif781,ДОХОДЪ. Российские акции. Первый эшелон,,,781,pif
+pif4447,Е3 Group,,,4447,pif
+pif46,Ермак – фонд краткосрочных инвестиций,,,46,pif
+pif398,Ермолаевский,,,398,pif
+pif1866,Жилая недвижимость 01.10,,,1866,pif
+pif605,Жилищная программа,,,605,pif
+pif3665,Жилой дом,,,3665,pif
+pif2013,Загородные земли,,,2013,pif
+pif2601,Заречье,,,2601,pif
+pif2537,Земельные ресурсы,,,2537,pif
+pif4247,Земельный,,,4247,pif
+pif1854,Земля-Недвижимость,,,1854,pif
+pif1991,Зенит,,,1991,pif
+pif2603,Змей Горыныч,,,2603,pif
+pif4291,Золотой эталон,,,4291,pif
+pif1295,ИАРТ Девелопмент,,,1295,pif
+pif475,ИДжи Акций,,,475,pif
+pif3551,ИДжи Эстейт,,,3551,pif
+pif3401,ИДжи Эстейт Первый,,,3401,pif
+pif228,Империал – первый фонд недвижимости,,,228,pif
+pif693,Инвестбаланс,,,693,pif
+pif696,ИнвестКапитал – нефтегазэнерго,,,696,pif
+pif283,ИнвестКапитал – фонд акций,,,283,pif
+pif1254,ИнвестСтрой,,,1254,pif
+pif199,Ингосстрах акции,,,199,pif
+pif1192,Ингосстрах денежный рынок,,,1192,pif
+pif3271,Ингосстрах еврооблигации,,,3271,pif
+pif1195,Ингосстрах Индекс ММВБ,,,1195,pif
+pif200,Ингосстрах облигации,,,200,pif
+pif49,Ингосстрах пенсионный,,,49,pif
+pif201,Ингосстрах сбалансированный,,,201,pif
+pif4297,Ингосстрах Товарно-сырьевой рынок,,,4297,pif
+pif4295,Ингосстрах – Мировая фармацевтика и Биотехнологии,,,4295,pif
+pif3869,Ингосстрах — Международные рынки,,,3869,pif
+pif3867,Ингосстрах — Риэл Эстейт,,,3867,pif
+pif1499,Инженер,,,1499,pif
+pif1055,ИНФРАСТРУКТУРА,,,1055,pif
+pif1848,ИСТОК,,,1848,pif
+pif1461,Казанский гастроном,,,1461,pif
+pif898,Казанский земельный инвестиционный фонд,,,898,pif
+pif1225,Казанский рентный инвестиционный фонд,,,1225,pif
+pif4201,Кантри Спейс,,,4201,pif
+pif2026,КапиталЪ – Глобальный потребительский сектор,,,2026,pif
+pif2865,КапиталЪ – Золото,,,2865,pif
+pif1898,КапиталЪ – инвестиции в строительство,,,1898,pif
+pif3313,КапиталЪ – Мировая индустрия спорта,,,3313,pif
+pif295,КапиталЪ – Облигации,,,295,pif
+pif294,КапиталЪ – Перспективные вложения,,,294,pif
+pif296,КапиталЪ – Сбалансированный,,,296,pif
+pif4129,КапиталЪ — Облигации плюс,,,4129,pif
+pif293,КапиталЪ-Информационные технологии будущего,,,293,pif
+pif2853,Капитальные инвестиции,,,2853,pif
+pif3397,Касимово,,,3397,pif
+pif3443,Каскад,,,3443,pif
+pif1773,Квант,,,1773,pif
+pif1243,Ключ,,,1243,pif
+pif1701,КОВЧЕГ,,,1701,pif
+pif2757,Колизей,,,2757,pif
+pif2801,Коллективная недвижимость,,,2801,pif
+pif2837,Колокольников,,,2837,pif
+pif2795,Кольчуга,,,2795,pif
+pif290,Коммерческая недвижимость,,,290,pif
+pif1650,Коммерческая недвижимость,,,1650,pif
+pif2617,Коммерческие Инвестиции,,,2617,pif
+pif2066,КОНСЕРВАТОРия,,,2066,pif
+pif3513,Коттеджио Парк,,,3513,pif
+pif2431,Красногорье,,,2431,pif
+pif536,Краснопресненский,,,536,pif
+pif113,Кузнецкий мост,,,113,pif
+pif4321,Кутузовский,,,4321,pif
+pif4323,КьюБиЭф Еврооблигации,,,4323,pif
+pif3767,КьюБиЭф Недвижимость,,,3767,pif
+pif4047,КьюБиЭф Региональная Недвижимость,,,4047,pif
+pif2627,Легион,,,2627,pif
+pif1042,Либра – Пенсионный капитал,,,1042,pif
+pif337,Лидер - смешанные инвестиции,,,337,pif
+pif1528,Лидер Девелопмент,,,1528,pif
+pif336,Лидер – Акции,,,336,pif
+pif335,Лидер – Облигации,,,335,pif
+pif2209,Ломбардный список,,,2209,pif
+pif1850,Майлстоун,,,1850,pif
+pif815,Максвелл Индекс ММВБ,,,815,pif
+pif190,Максвелл Капитал,,,190,pif
+pif955,Максвелл Металлургия,,,955,pif
+pif660,Максвелл Нефтегаз,,,660,pif
+pif465,Максвелл Телеком,,,465,pif
+pif894,Максвелл Финансы,,,894,pif
+pif417,Максвелл Фонд Акций,,,417,pif
+pif517,Максвелл Фонд Госпредприятий,,,517,pif
+pif416,Максвелл Фонд Облигаций,,,416,pif
+pif709,Максвелл Энерго,,,709,pif
+pif2325,МАРТ РИЭЛТИ,,,2325,pif
+pif786,МДМ - сбалансированный,,,786,pif
+pif328,МДМ – мир акций,,,328,pif
+pif327,МДМ – мир облигаций,,,327,pif
+pif1244,МДМ – мир фондов,,,1244,pif
+pif2495,Межотраслевая недвижимость,,,2495,pif
+pif715,Меркури - Акции,,,715,pif
+pif1844,Меркури - Коммерческая недвижимость,,,1844,pif
+pif2000,Меркури – Облигации,,,2000,pif
+pif171,Метрополь Афина,,,171,pif
+pif172,Метрополь Зевс,,,172,pif
+pif173,Метрополь Золотое Руно,,,173,pif
+pif937,Метрополь Посейдон – Индекс ММВБ,,,937,pif
+pif225,Мировые рынки,,,225,pif
+pif1706,Михайловский - Рентный,,,1706,pif
+pif1136,Михайловский - Рентный II,,,1136,pif
+pif3579,МК акции,,,3579,pif
+pif3581,МК бивалютный,,,3581,pif
+pif3583,МК депозитный,,,3583,pif
+pif3585,МК облигации,,,3585,pif
+pif3587,МК оптимальный,,,3587,pif
+pif2633,Мобильный капитал,,,2633,pif
+pif1515,Можайский берег,,,1515,pif
+pif468,Монолит,,,468,pif
+pif176,Мономах-Панорама,,,176,pif
+pif61,Мономах-Перспектива,,,61,pif
+pif1935,Москва-Ритейл,,,1935,pif
+pif3276,Москоу Реал Эстейт,,,3276,pif
+pif214,Накопительный Резерв,,,214,pif
+pif2919,Национальные акции,,,2919,pif
+pif2923,Национальные облигации,,,2923,pif
+pif2921,Национальный – Золото,,,2921,pif
+pif1154,Невский – Первый фонд недвижимости,,,1154,pif
+pif1130,Недвижимость пенсионного фонда,,,1130,pif
+pif118,Нефтяной Фонд Промышленной Реконструкции и Развития,,,118,pif
+pif773,НИТ-Триумф,,,773,pif
+pif824,НМ-Траст АПП,,,824,pif
+pif1751,Новая Москва,,,1751,pif
+pif3027,Новая Москва 5,,,3027,pif
+pif2935,Новожиловские березняки,,,2935,pif
+pif3539,Новосибирск девелопмент-1,,,3539,pif
+pif3537,Новосибирск-земельный,,,3537,pif
+pif2139,НРК- Региональный,,,2139,pif
+pif428,Объединенный,,,428,pif
+pif205,ОЛМА  –  ФОНД  ОТРАСЛЕВОГО РОСТА,,,205,pif
+pif484,ОЛМА - ЕВРОПА,,,484,pif
+pif614,ОЛМА - США,,,614,pif
+pif498,ОЛМА – ИНДЕКС РТС,,,498,pif
+pif206,ОЛМА – МИРОВЫЕ НЕФТЬ И ГАЗ,,,206,pif
+pif550,ОЛМА – МИРОВЫЕ ТЕЛЕКОММУНИКАЦИИ И ВЫСОКИЕ ТЕХНОЛОГИИ,,,550,pif
+pif932,ОЛМА-КИТАЙ,,,932,pif
+pif535,ОПЛОТ,,,535,pif
+pif1924,Оптимальный,,,1924,pif
+pif1145,Открытие - Иностранные акции,,,1145,pif
+pif2409,Открытие - Развивающиеся рынки,,,2409,pif
+pif2399,Открытие –  Золото,,,2399,pif
+pif186,Открытие – Акции,,,186,pif
+pif2405,Открытие – Еврооблигации,,,2405,pif
+pif3167,Открытие – Зарубежная собственность,,,3167,pif
+pif936,Открытие – Индекс ММВБ,,,936,pif
+pif563,Открытие – Индекс ММВБ - электроэнергетика,,,563,pif
+pif2505,Открытие – Китай,,,2505,pif
+pif187,Открытие – Облигации,,,187,pif
+pif3179,Открытие – Развитые рынки,,,3179,pif
+pif3183,Открытие – США,,,3183,pif
+pif3173,Открытие – Сырье,,,3173,pif
+pif4091,Открытие — Глобальные инвестиции,,,4091,pif
+pif1451,ОфисЦентр,,,1451,pif
+pif3647,Панорама,,,3647,pif
+pif476,Пассаж,,,476,pif
+pif1810,Первобанк - Недвижимость,,,1810,pif
+pif1503,Первый рентный,,,1503,pif
+pif279,Первый фонд фондов,,,279,pif
+pif996,Пермские земли,,,996,pif
+pif1818,Перспектива,,,1818,pif
+pif2261,Перспектива,,,2261,pif
+pif2915,Перспектива,,,2915,pif
+pif1908,Перспектива – фонд второй,,,1908,pif
+pif3911,Перспективные проекты,,,3911,pif
+pif2663,Перспективный,,,2663,pif
+pif63,Петр Столыпин,,,63,pif
+pif1045,Площадь Победы,,,1045,pif
+pif1041,Покровский,,,1041,pif
+pif2167,Полис,,,2167,pif
+pif769,Прагматик,,,769,pif
+pif1938,Пригородные земли,,,1938,pif
+pif3907,Прима,,,3907,pif
+pif1013,ПРОГРЕСС,,,1013,pif
+pif2685,Прогресс-Недвижимость,,,2685,pif
+pif1291,Проектный,,,1291,pif
+pif2062,ПРОМСВЯЗЬ - Глобальные Фонды,,,2062,pif
+pif374,Промсвязь Акции,,,374,pif
+pif375,Промсвязь Облигации,,,375,pif
+pif373,Промсвязь Сбалансированный,,,373,pif
+pif2687,Протон,,,2687,pif
+pif2849,Пятый Земельный,,,2849,pif
+pif281,Райффайзен - Акции,,,281,pif
+pif2113,Райффайзен - Европа,,,2113,pif
+pif2277,Райффайзен - Золото,,,2277,pif
+pif2361,Райффайзен - Казначейский,,,2361,pif
+pif280,Райффайзен - Облигации,,,280,pif
+pif2125,Райффайзен - Развивающиеся рынки,,,2125,pif
+pif282,Райффайзен - Сбалансированный,,,282,pif
+pif2010,Райффайзен – Драгоценные металлы,,,2010,pif
+pif1023,Райффайзен – Индекс ММВБ голубых фишек,,,1023,pif
+pif1021,Райффайзен – Информационные технологии,,,1021,pif
+pif1024,Райффайзен – Потребительский сектор,,,1024,pif
+pif697,Райффайзен – США,,,697,pif
+pif1025,Райффайзен – Сырьевой сектор,,,1025,pif
+pif2363,Райффайзен – Фонд активного управления,,,2363,pif
+pif1020,Райффайзен – Электроэнергетика,,,1020,pif
+pif2573,Райффайзен — Долговые рынки развитых стран,,,2573,pif
+pif1022,Райффайзен — Индустриальный,,,1022,pif
+pif1978,РАМ Недвижимость,,,1978,pif
+pif2777,Рантье,,,2777,pif
+pif3333,Рантье,,,3333,pif
+pif2885,Рацио-Рентный,,,2885,pif
+pif3447,РВМ Капитальный,,,3447,pif
+pif1877,РВМ Мегаполис,,,1877,pif
+pif1071,РВМ Русский Транзит,,,1071,pif
+pif3657,РВМ Социальные инвестиции,,,3657,pif
+pif2689,РВМ Столичная недвижимость №1,,,2689,pif
+pif1075,РВМ – Подмосковный,,,1075,pif
+pif806,РВМ — Логистический,,,806,pif
+pif3282,РГС - Золото,,,3282,pif
+pif981,РГС - Металлургия,,,981,pif
+pif980,РГС - Нефтегаз,,,980,pif
+pif982,РГС - Потребительский сектор,,,982,pif
+pif1259,РГС – Индекс ММВБ,,,1259,pif
+pif3280,РГС – Мировые технологии,,,3280,pif
+pif979,РГС – Электроэнергетика,,,979,pif
+pif726,РГС — Акции,,,726,pif
+pif727,РГС — Облигации,,,727,pif
+pif755,РГС — Перспективные инвестиции,,,755,pif
+pif725,РГС — Сбалансированный,,,725,pif
+pif4275,РЕГИОН Еврооблигации,,,4275,pif
+pif70,Регион Фонд Акций,,,70,pif
+pif291,Регион Фонд Облигаций,,,291,pif
+pif292,Регион Фонд Сбалансированный,,,292,pif
+pif4473,РЕГИОН Форт,,,4473,pif
+pif3073,Региональная недвижимость,,,3073,pif
+pif1824,Региональный фонд инвестиций в субъекты малого и среднего предпринимательства Республики Мордовия,,,1824,pif
+pif2237,Резервный,,,2237,pif
+pif3341,Резервный. Валютные инвестиции,,,3341,pif
+pif621,Реконструкция и Развитие,,,621,pif
+pif1474,Рентный 2,,,1474,pif
+pif1486,Рентный 3,,,1486,pif
+pif617,Респект - Финанс,,,617,pif
+pif3993,РИО-ЛИОН Эстейт,,,3993,pif
+pif1277,РИФ,,,1277,pif
+pif2205,Родные просторы,,,2205,pif
+pif1125,Рождественский,,,1125,pif
+pif2059,РОНИН фонд акций,,,2059,pif
+pif3347,РОСТ Недвижимость,,,3347,pif
+pif3131,РСХБ – Фонд Акций,,,3131,pif
+pif3129,РСХБ – Фонд Облигаций,,,3129,pif
+pif3127,РСХБ – Фонд Сбалансированный,,,3127,pif
+pif3589,РСХБ — Валютные облигации,,,3589,pif
+pif3591,"РСХБ — Золото, серебро, платина",,,3591,pif
+pif3593,РСХБ — Казначейский,,,3593,pif
+pif3601,РСХБ — Лучшие отрасли,,,3601,pif
+pif3877,Рублевые облигации,,,3877,pif
+pif487,РФЦ – Фонд акций,,,487,pif
+pif562,РФЦ-Шуваловские высоты,,,562,pif
+pif800,Саввинские палаты,,,800,pif
+pif3925,Саларьево,,,3925,pif
+pif2046,САН - Смешанные инвестиции,,,2046,pif
+pif4263,САФМАР Плаза,,,4263,pif
+pif48,Сбалансированный,,,48,pif
+pif2050,Сбербанк - Глобальный долговой рынок,,,2050,pif
+pif3125,Сбербанк - Еврооблигации,,,3125,pif
+pif1983,Сбербанк - Развивающиеся рынки,,,1983,pif
+pif764,Сбербанк – Америка,,,764,pif
+pif4265,Сбербанк – Арендный бизнес,,,4265,pif
+pif4475,Сбербанк – Арендный бизнес 2,,,4475,pif
+pif4349,Сбербанк – Глобальное машиностроение,,,4349,pif
+pif2233,Сбербанк – Глобальный Интернет,,,2233,pif
+pif2121,Сбербанк – Европа,,,2121,pif
+pif803,Сбербанк – Потребительский сектор,,,803,pif
+pif641,Сбербанк – Природные ресурсы,,,641,pif
+pif640,Сбербанк – Телекоммуникации и Технологии,,,640,pif
+pif957,Сбербанк – Финансовый сектор,,,957,pif
+pif1070,Сбербанк – Фонд активного управления,,,1070,pif
+pif43,Сбербанк – Фонд акций Добрыня Никитич,,,43,pif
+pif367,Сбербанк – Фонд акций компаний малой капитализации,,,367,pif
+pif47,Сбербанк – Фонд облигаций  Илья Муромец,,,47,pif
+pif366,Сбербанк – Фонд перспективных облигаций,,,366,pif
+pif45,Сбербанк – Фонд Сбалансированный,,,45,pif
+pif642,Сбербанк – Электроэнергетика,,,642,pif
+pif3953,Сбербанк — Биотехнологии,,,3953,pif
+pif3563,Сбербанк — Жилая недвижимость 2,,,3563,pif
+pif4051,Сбербанк — Жилая недвижимость 3,,,4051,pif
+pif2225,Сбербанк — Золото,,,2225,pif
+pif492,Сберегательный,,,492,pif
+pif1493,Своя земля - рентный,,,1493,pif
+pif1856,Северная столица,,,1856,pif
+pif326,Северо-западный,,,326,pif
+pif324,Северо-западный – Фонд акций,,,324,pif
+pif325,Северо-западный – Фонд облигаций,,,325,pif
+pif1772,Селена,,,1772,pif
+pif2385,Сельскохозяйственный,,,2385,pif
+pif1144,Семейные сбережения,,,1144,pif
+pif4397,Серебро – инвестиции в недвижимость,,,4397,pif
+pif1292,Сибирский,,,1292,pif
+pif2791,Сибирь,,,2791,pif
+pif3495,Система Инвестиции – Фонд акций,,,3495,pif
+pif4399,Система Капитал – Мобильный,,,4399,pif
+pif4401,Система Капитал – Мобильный. Валютный,,,4401,pif
+pif4593,Система – Рентная недвижимость 1,,,4593,pif
+pif2221,Системные инвестиции,,,2221,pif
+pif3089,Сити-Капитал,,,3089,pif
+pif459,СКМ Капитал,,,459,pif
+pif1159,СКМ Недвижимость,,,1159,pif
+pif1580,СМ.арт - Альянс,,,1580,pif
+pif278,Смелый,,,278,pif
+pif4351,Собрание,,,4351,pif
+pif2275,Современные инвестиции,,,2275,pif
+pif1929,СОДРУЖЕСТВО,,,1929,pif
+pif652,Созидатель,,,652,pif
+pif2255,Солид  Недвижимость - 2,,,2255,pif
+pif1959,Солид - Глобус,,,1959,pif
+pif127,Солид Интервальный,,,127,pif
+pif2189,Солид Перспективный,,,2189,pif
+pif389,Солид – Индекс ММВБ,,,389,pif
+pif82,Солид-Инвест,,,82,pif
+pif144,Солнечный город,,,144,pif
+pif1901,Спектр,,,1901,pif
+pif277,Спокойный,,,277,pif
+pif479,Спортинвест,,,479,pif
+pif4579,СРЕДА,,,4579,pif
+pif3290,СРТ,,,3290,pif
+pif1715,Стабильный,,,1715,pif
+pif4403,Сто одиннадцать,,,4403,pif
+pif83,СТОИК,,,83,pif
+pif881,СТОИК - Нефть и Газ,,,881,pif
+pif751,СТОИК-Биржевые активы,,,751,pif
+pif851,Стратегические активы,,,851,pif
+pif3195,Стратегические инвестиции,,,3195,pif
+pif551,Стратегия,,,551,pif
+pif2070,Стратегия – Деловая недвижимость,,,2070,pif
+pif2817,Стрит Ритейл,,,2817,pif
+pif239,Строительные инвестиции,,,239,pif
+pif2765,СтройКапиталЪ,,,2765,pif
+pif1377,СТРОЙКОМ-КАПИТАЛ,,,1377,pif
+pif3097,СТРОЙПРОЕКТ,,,3097,pif
+pif4043,Сфера,,,4043,pif
+pif3559,СЭМ Эстейт,,,3559,pif
+pif3525,СЭМ Эстейт Первый,,,3525,pif
+pif4131,Тверская земля,,,4131,pif
+pif1385,Тверская усадьба,,,1385,pif
+pif799,Территория Югра,,,799,pif
+pif85,ТИТАН,,,85,pif
+pif2081,ТКБ Инвестмент Партнерс – Золото,,,2081,pif
+pif518,ТКБ Инвестмент Партнерс – Премиум. Фонд акций,,,518,pif
+pif76,ТКБ Инвестмент Партнерс – Фонд акций глобальный,,,76,pif
+pif1027,ТКБ Инвестмент Партнерс – Фонд валютных облигаций,,,1027,pif
+pif50,ТКБ Инвестмент Партнерс – Фонд облигаций,,,50,pif
+pif51,ТКБ Инвестмент Партнерс – Фонд сбалансированный,,,51,pif
+pif236,ТКБ Инвестмент Партнерс – Фонд сбалансированный глобальный,,,236,pif
+pif1544,Тополь,,,1544,pif
+pif1957,Торговая недвижимость,,,1957,pif
+pif4567,Торговые ряды Лобня,,,4567,pif
+pif1819,Траст Девелопмент Второй,,,1819,pif
+pif1838,ТрастЮнион - Рентный,,,1838,pif
+pif1344,Трейд Эстейт,,,1344,pif
+pif1261,Третий Земельный,,,1261,pif
+pif3425,ТРИНФИКО Глобал.ру,,,3425,pif
+pif4543,ТРИНФИКО Еврооблигации плюс,,,4543,pif
+pif3969,ТРИНФИКО — Глобальные рынки,,,3969,pif
+pif2825,ТРЦ Перловский,,,2825,pif
+pif1479,ТФБ - Инвестиционный,,,1479,pif
+pif1498,ТФБ - Рентный инвестиционный фонд,,,1498,pif
+pif1093,ТФБ - Решительный,,,1093,pif
+pif1089,ТФБ - Финансист,,,1089,pif
+pif4497,ТФГ – Российские акции,,,4497,pif
+pif675,ТФГ – Рублевые облигации,,,675,pif
+pif87,ТФГ – Фирменный,,,87,pif
+pif2075,ТФГ– Акции,,,2075,pif
+pif2897,УНИВЕРСУМ,,,2897,pif
+pif3861,Управление Сбережениями — Азия,,,3861,pif
+pif3857,Управление Сбережениями — Германия,,,3857,pif
+pif3859,Управление Сбережениями — Долговые рынки развитых стран,,,3859,pif
+pif115,УРАЛСИБ Акции роста,,,115,pif
+pif3211,УРАЛСИБ Акционерные рынки развивающихся стран,,,3211,pif
+pif3213,УРАЛСИБ Акционерные рынки развитых стран,,,3213,pif
+pif3217,УРАЛСИБ Глобал Реал Эстейт,,,3217,pif
+pif1186,УРАЛСИБ Глобальные инновации,,,1186,pif
+pif3215,УРАЛСИБ Глобальные сырьевые рынки,,,3215,pif
+pif3207,УРАЛСИБ Долговые рынки развивающихся стран,,,3207,pif
+pif3209,УРАЛСИБ Долговые рынки развитых стран,,,3209,pif
+pif2547,Уралсиб Еврооблигации,,,2547,pif
+pif2555,УРАЛСИБ Золото,,,2555,pif
+pif55,УРАЛСИБ Консервативный,,,55,pif
+pif114,УРАЛСИБ Первый,,,114,pif
+pif1188,УРАЛСИБ Природные ресурсы,,,1188,pif
+pif117,УРАЛСИБ Профессиональный,,,117,pif
+pif1187,УРАЛСИБ Энергетическая перспектива,,,1187,pif
+pif2032,Уральская недвижимость 1,,,2032,pif
+pif2033,Уральская недвижимость 2,,,2033,pif
+pif4365,УФА ЭКСПО,,,4365,pif
+pif1069,Фаворит Девелопмент,,,1069,pif
+pif93,Финам Первый,,,93,pif
+pif483,Финам – Информационные технологии,,,483,pif
+pif501,Финам – Капитальные вложения,,,501,pif
+pif94,Финансист,,,94,pif
+pif1061,Финансист Прогресс,,,1061,pif
+pif1566,Финансы и недвижимость,,,1566,pif
+pif1056,ФОНД 2025,,,1056,pif
+pif92,Фонд долгосрочных инвестиций - Солид,,,92,pif
+pif611,Фонд Еврооблигаций,,,611,pif
+pif2679,Фонд стратегических инвестиций 3,,,2679,pif
+pif426,ФОРТ,,,426,pif
+pif1786,ФОРУМ,,,1786,pif
+pif4499,Фотон,,,4499,pif
+pif3977,Холи Лэнд,,,3977,pif
+pif1117,Царский мост,,,1117,pif
+pif988,Целевые инвестиции,,,988,pif
+pif4369,Центральная Управляющая Компания. Золото.,,,4369,pif
+pif4371,Центральная управляющая компания. Недвижимость.,,,4371,pif
+pif2263,Четвертый Земельный,,,2263,pif
+pif1334,Шаляпин,,,1334,pif
+pif4437,Шоколад,,,4437,pif
+pif1359,Эверест Коммерческая недвижимость. Аренда,,,1359,pif
+pif1749,Эверест Центр,,,1749,pif
+pif1755,Экорент,,,1755,pif
+pif2157,Энергетика Севера,,,2157,pif
+pif135,Энергия - Инвест,,,135,pif
+pif1604,Энсаф,,,1604,pif
+pif4409,ЮБК,,,4409,pif
+pif1730,Югра,,,1730,pif
+pif798,Югра - Рантье,,,798,pif
+pif395,ЮГРА Коммерческая Недвижимость,,,395,pif
+pif532,Югра Рентный Фонд,,,532,pif
+pif1531,ЮграФинанс - недвижимость,,,1531,pif
+pif4535,Яхонтовый лес,,,4535,pif
