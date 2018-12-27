@@ -2,7 +2,6 @@ pandas==0.23.4
 numpy==1.15.4
 numparser==0.0.2
 requests==2.18.4
-cvxpy==0.4.10
 dateparser==0.7.0
 xlrd==1.1.0
 matplotlib==2.2.2

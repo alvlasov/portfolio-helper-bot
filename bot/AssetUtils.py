@@ -424,66 +424,66 @@ class AssetPortfolio:
         counts['Date'] = [date_]
         return pd.DataFrame.from_dict(counts)
 
-import cvxpy
+# import cvxpy
 
-class Rebalancer:
+# class Rebalancer:
 
-    def rebalance(self, portfolio, target_distr, refill = 0):
-        n_assets = len(portfolio.asset_list)
-        if len(target_distr) != n_assets:
-            raise Exception('Wrong len of target_split')
-        if sum(target_distr) != 1:
-            raise Exception('Wrong partitioning')
+#     def rebalance(self, portfolio, target_distr, refill = 0):
+#         n_assets = len(portfolio.asset_list)
+#         if len(target_distr) != n_assets:
+#             raise Exception('Wrong len of target_split')
+#         if sum(target_distr) != 1:
+#             raise Exception('Wrong partitioning')
 
-        date = portfolio.last_updated
-        portfolio_price = portfolio.get_price(date)
-        target_price = portfolio_price + refill
-        asset_prices = []
-        assets_with_real_counts = []
-        for i, asset in enumerate(portfolio.asset_list):
-            asset_prices.append(asset.get_price(date))
-            if asset.get_count(date) % 1 != 0:
-                assets_with_real_counts.append(i)
+#         date = portfolio.last_updated
+#         portfolio_price = portfolio.get_price(date)
+#         target_price = portfolio_price + refill
+#         asset_prices = []
+#         assets_with_real_counts = []
+#         for i, asset in enumerate(portfolio.asset_list):
+#             asset_prices.append(asset.get_price(date))
+#             if asset.get_count(date) % 1 != 0:
+#                 assets_with_real_counts.append(i)
 
-        real_multiplier = 10 ** 6
-        for i in assets_with_real_counts:
-            asset_prices[i] /= real_multiplier
+#         real_multiplier = 10 ** 6
+#         for i in assets_with_real_counts:
+#             asset_prices[i] /= real_multiplier
 
-        A = np.diag(asset_prices/target_price)
-        y = np.array(target_distr)
-        x = cvxpy.Int(n_assets)
-        obj = cvxpy.Minimize(cvxpy.norm(A * x - y, 2))
-        prob = cvxpy.Problem(obj)
-        sol = prob.solve()
-        x_val = np.array(x.value).reshape(-1,).tolist()
+#         A = np.diag(asset_prices/target_price)
+#         y = np.array(target_distr)
+#         x = cvxpy.Int(n_assets)
+#         obj = cvxpy.Minimize(cvxpy.norm(A * x - y, 2))
+#         prob = cvxpy.Problem(obj)
+#         sol = prob.solve()
+#         x_val = np.array(x.value).reshape(-1,).tolist()
 
-        for i in assets_with_real_counts:
-            x_val[i] /= real_multiplier
+#         for i in assets_with_real_counts:
+#             x_val[i] /= real_multiplier
 
-        eps = 10 ** -6
-        output = []
-        output_cols = ['Name', 'Price', 'Count', 'Price*Count', 'Rebalanced count', 'Price*RCount', 'Price*(RCount-Count)', 'Tip', 'Distribution', 'Rebalanced distribution']
-        for i in range(n_assets):
-            asset = portfolio.asset_list[i]
-            price = asset.get_price(date)
-            count = asset.get_count(date)
-            new_count = x_val[i]
+#         eps = 10 ** -6
+#         output = []
+#         output_cols = ['Name', 'Price', 'Count', 'Price*Count', 'Rebalanced count', 'Price*RCount', 'Price*(RCount-Count)', 'Tip', 'Distribution', 'Rebalanced distribution']
+#         for i in range(n_assets):
+#             asset = portfolio.asset_list[i]
+#             price = asset.get_price(date)
+#             count = asset.get_count(date)
+#             new_count = x_val[i]
 
-            if abs(new_count - count) > eps:
-                if new_count > count:
-                    tip = 'buy '
-                else:
-                    tip = 'sell '
-                if i in assets_with_real_counts:
-                    tip += '%.5f' % abs(new_count - count)
-                else:
-                    tip += '%d' % round(abs(new_count - count))
-            else:
-                tip = ''
+#             if abs(new_count - count) > eps:
+#                 if new_count > count:
+#                     tip = 'buy '
+#                 else:
+#                     tip = 'sell '
+#                 if i in assets_with_real_counts:
+#                     tip += '%.5f' % abs(new_count - count)
+#                 else:
+#                     tip += '%d' % round(abs(new_count - count))
+#             else:
+#                 tip = ''
 
-            distr = '%.2f%%' % (100 * count * price / portfolio_price)
-            new_distr = '%.2f%%' %  (100 * new_count * price / target_price)
-            delta_count = new_count-count if abs(count-new_count) > 10**-5 else 0
-            output.append([asset.name, price, count, price*count, new_count, price*new_count, price*delta_count, tip, distr, new_distr])
+#             distr = '%.2f%%' % (100 * count * price / portfolio_price)
+#             new_distr = '%.2f%%' %  (100 * new_count * price / target_price)
+#             delta_count = new_count-count if abs(count-new_count) > 10**-5 else 0
+#             output.append([asset.name, price, count, price*count, new_count, price*new_count, price*delta_count, tip, distr, new_distr])
 
-        return pd.DataFrame(output, columns=output_cols)
+#         return pd.DataFrame(output, columns=output_cols)

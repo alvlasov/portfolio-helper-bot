@@ -11,7 +11,8 @@ from concurrent.futures import ThreadPoolExecutor
 
 from telegram.ext import (CallbackQueryHandler, CommandHandler,
                           ConversationHandler, Filters, MessageHandler,
-                          PicklePersistence, RegexHandler, Updater, Job)
+                          PicklePersistence, RegexHandler, Updater, Job,
+                          RegexHandler)
 
 from . import AssetUtils
 
@@ -61,6 +62,7 @@ REQUEST_KWARGS={
         'password': 'telegram',
     }
 }
+
 def update_job(bot, job : Job):
     pf = job.context
     pf.update()
@@ -94,6 +96,7 @@ def main():
         ],
         states={
             'MENU': [
+                CommandHandler('start', menu, pass_user_data=True),
                 CallbackQueryHandler(menu, pattern='^menu$', pass_user_data=True),
                 CallbackQueryHandler(search, pattern='^search$', pass_user_data=True),
                 CallbackQueryHandler(list_assets, pattern='^fav$', pass_user_data=True),
@@ -101,8 +104,11 @@ def main():
                 CallbackQueryHandler(update_portfolio, pattern='^update$', pass_user_data=True, pass_job_queue=True),
                 CallbackQueryHandler(stats, pattern='^stats$', pass_user_data=True),
                 CallbackQueryHandler(info, pattern='^info$', pass_user_data=True),
+                RegexHandler('.*search.*', search, pass_user_data=True),
+                RegexHandler('.*favourites.*', list_assets, pass_user_data=True),
+                RegexHandler('.*stat.*', stats, pass_user_data=True),
+                RegexHandler('.*[info|inside|content].*', info, pass_user_data=True),
                 MessageHandler(Filters.text, menu, pass_user_data=True),
-                CommandHandler('start', menu, pass_user_data=True),
             ],
             'CREATE_PORTFOLIO': [
                 CallbackQueryHandler(create_portfolio, pattern='^create$', pass_user_data=True),
@@ -112,8 +118,10 @@ def main():
                 MessageHandler(Filters.text, search, pass_user_data=True),
                 CallbackQueryHandler(menu, pattern='^done$', pass_user_data=True),
                 CallbackQueryHandler(search, pass_user_data=True),
+                RegexHandler('.*[back|done].*', menu, pass_user_data=True),
             ],
             'LIST_ASSETS': [
+                RegexHandler('.*[back|done].*', menu, pass_user_data=True),
                 CallbackQueryHandler(menu, pattern='^done$', pass_user_data=True),
                 CallbackQueryHandler(list_assets, pass_user_data=True),
 
@@ -125,10 +133,12 @@ def main():
 
             ],
             'STATS': [
+                RegexHandler('.*[back|done].*', menu, pass_user_data=True),
                 CallbackQueryHandler(menu, pattern='^done$', pass_user_data=True),
                 CallbackQueryHandler(stats, pass_user_data=True),
             ],
             'INFO': [
+                RegexHandler('.*[back|done].*', menu, pass_user_data=True),
                 CallbackQueryHandler(menu, pattern='^done$', pass_user_data=True),
             ]
 
