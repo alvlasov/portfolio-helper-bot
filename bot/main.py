@@ -54,14 +54,14 @@ def error(bot, update, error):
     logger.warning('Update "%s" caused error "%s"', update, error)
 
 
-REQUEST_KWARGS={
-    'proxy_url': 'socks5://vysyj.tgvpnproxy.me:1080',
-    # Optional, if you need authentication:
-    'urllib3_proxy_kwargs': {
-        'username': 'telegram',
-        'password': 'telegram',
-    }
-}
+# REQUEST_KWARGS={
+#     'proxy_url': 'socks5://vysyj.tgvpnproxy.me:1080',
+#     # Optional, if you need authentication:
+#     'urllib3_proxy_kwargs': {
+#         'username': 'telegram',
+#         'password': 'telegram',
+#     }
+# }
 
 def update_job(bot, job : Job):
     pf = job.context
@@ -86,8 +86,8 @@ def main():
     db.load_database('asset_database')
 
     pp = PicklePersistence(filename='bot_data')
-    updater = Updater(token='475109240:AAFQFPD6z10fOIcHyOlAnU046KJkvKE7hj8', persistence=pp,
-                     request_kwargs=REQUEST_KWARGS)
+    updater = Updater(token='475109240:AAFQFPD6z10fOIcHyOlAnU046KJkvKE7hj8', persistence=pp)
+#                      request_kwargs=REQUEST_KWARGS)
 
     dp = updater.dispatcher 
     conv_handler = ConversationHandler(
